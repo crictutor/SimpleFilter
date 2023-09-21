@@ -127,7 +127,7 @@ Nᴀᴍᴇ - {}"""
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : ʀᴏʜᴀɴ
 • ᴜꜱᴇʀɴᴀᴍᴇ : 
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href=https://t.me/Unknown_Man_On_Mission><b>ʀᴏʜᴀɴ</b></a></b>"""
+</b>"""
 
     REQINFO = """
 Always Request in Correct Spelling... check Spellings on Google ...
@@ -168,7 +168,7 @@ If You Still Don't Get Movies then Owner Will Update Within 𝟸𝟺 Hour"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b> <a href=https://t.me/Cinema_Moviesz>{file_name}</a>
+    CAPTION = """<b> <a href=https://t.me/Movies_bhandars>{file_name}</a>
 
 </b>"""
 
