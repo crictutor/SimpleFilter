@@ -49,7 +49,8 @@ async def start(client, message):
               
                 InlineKeyboardButton('🔰 ᴍʏ ᴄʜᴀɴɴᴇʟ 🔰', url=MY_CHNL)
             ],[
-                    InlineKeyboardButton('🔱 ᴊᴏɪɴ ᴛʜɪs ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ ᴍᴇ 🔱',url=UPDT_CHNL)
+                    InlineKeyboardButton('👻 ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟ 👻',url=f'https://t.me/+RlRvE7Xv4dYwMDM9')
+                  ],[ InlineKeyboardButton('🔱 ᴊᴏɪɴ ᴛʜɪs ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ ᴍᴇ 🔱',url=UPDT_CHNL)
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -94,7 +95,9 @@ async def start(client, message):
             ],[
                 InlineKeyboardButton('🎭 ᴍʏ ɢʀᴏᴜᴘ 🎭', url=MY_GRP),              
                 InlineKeyboardButton('🔰 ᴍʏ ᴄʜᴀɴɴᴇʟ🔰', url=MY_CHNL)
-            ],[ InlineKeyboardButton('🔱 ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ 🔱', url=UPDT_CHNL)] ]
+            ],[InlineKeyboardButton('👻 ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟ 👻',url=f'https://t.me/+RlRvE7Xv4dYwMDM9')
+                  ],[ InlineKeyboardButton('🔱 ᴊᴏɪɴ ᴛʜɪs ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ ᴍᴇ 🔱',url=UPDT_CHNL)
+                  ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
