@@ -61,7 +61,7 @@ MSG_ALRT = environ.get('MSG_ALRT', 'Join Channels Also ')
 
 UPDT_CHNL = environ.get('UPDT_CHNL', 'https://t.me/Movies_bhandars')
 MY_CHNL = environ.get('MY_CHNL', 'https://t.me/Movies_bhandars')
-MY_GRP = environ.get('MY_GRP', 'https://t.me/Movies_bhandars')
+MY_GRP = environ.get('MY_GRP', 'https://t.me/+b8te8RXI1M4wMzA1')
 HOW_TO_DWNLD  = environ.get('HOW_TO_DWNLD', 'https://t.me/Movies_bhandars')
 READ_RULES = environ.get('READ_RULES', 'https://t.me/Movies_bhandars')
 
